@@ -1,5 +1,7 @@
 # Small-World-of-Warcraft-Soundboard
 
+![My picture](image.png)
+
 Dependencies:
 pip install pillow PySide6 pygame
 
