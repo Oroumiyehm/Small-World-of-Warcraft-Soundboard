@@ -20,3 +20,7 @@ Small WoW Soundboard/
 You may replace or add .ogg files to adjust the sounds to your liking.
 
 You may replace or add picture files in each race root folder to nameplates's bg to your liking.
+
+## License
+GPL-3.0-or-later  
+Copyright (C) 2026 Oroumiyehm
